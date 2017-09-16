@@ -1,0 +1,20 @@
+*{
+	box-sizing: border-box;
+}
+
+.header-title {
+	font-family: 'Merriweather', sans-serif; 
+}
+
+.second-title {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-style: italic;
+}
+
+.third-title {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+	font-family: 'Muli', sans-serif;
+}
